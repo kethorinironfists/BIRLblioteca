@@ -19,6 +19,7 @@ mais que isso sobra*/
 using namespace std;
 
 typedef long long int ll;
+typedef unsigned long long int ull;
 typedef long double ld;
 typedef vector < int > vi;
 typedef vector < vi > vvi;
@@ -34,6 +35,7 @@ typedef vector < ll > vll;
 #define mp make_pair
 #define buff ios::sync_with_stdio(false)
 #define db(x) cout<<#x<<": "<<x<<endl
+#define for0(i, n) for(int i = 0; i < n; i++)
 
 const int inf=0x3f3f3f3f;
 const ll linf=0x3f3f3f3f3f3f3f3f;
@@ -41,8 +43,7 @@ const ld pi=acos(-1.0);
 const int mod=1e9+7;
 const int maxn=100050;
 
-int main()
-{
+int main() {
 	buff;
 	
 	return 0;

@@ -1,8 +1,8 @@
 /*KMP simplezinho
-cont quantidade de matches
+conta a quantidade de matches
 BIRLLLL na posicao do match
 MEXA EM QUALQUER COISA,
-MAS NÃO MEXA NA PORCARIA DO KMP*/
+MAS NÃO MEXA NA BRUXARIA DO KMP*/
 //TESTADO = TRUE
 
 void prefixo(string &p, vi &pi) {
